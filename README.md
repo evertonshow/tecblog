@@ -1,2 +1,5 @@
-bora fazer mais um vez
-vamos vê atraves da origim.
+#Como fazer um site blog 
+---
+Elaborando um site utilizando **HTML e CSS** com algumas imagens.
+
+* coisa simples.
